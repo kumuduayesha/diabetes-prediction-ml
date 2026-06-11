@@ -134,6 +134,13 @@ diabetes-prediction-ml/
 
 ## How to Run
 
+### ▶️ Run it instantly (no setup) — Google Colab
+
+Click a badge to open the notebook in your browser and run it on free cloud servers:
+
+- Preprocessing (label encoding): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kumuduayesha/diabetes-prediction-ml/blob/main/notebooks/01_label_encoding_preprocessing.ipynb)
+- Logistic Regression models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kumuduayesha/diabetes-prediction-ml/blob/main/notebooks/02_logistic_regression_models.ipynb)
+
 ```bash
 # 1. Clone the repository
 git clone https://github.com/kumuduayesha/diabetes-prediction-ml.git
@@ -148,6 +155,7 @@ pip install -r requirements.txt
 
 # 4. Launch Jupyter and run the notebooks top to bottom
 jupyter notebook
+
 ```
 
 Start with `notebooks/01_label_encoding_preprocessing.ipynb`, then `notebooks/02_logistic_regression_models.ipynb`.
