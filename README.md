@@ -173,7 +173,7 @@ This was a group assignment (**Group ID: 2025-Y2-S1-MLB-B3G2-05**) in which each
 ## About Me
 
 **W.P. Kumudu Ayesha Dilhani**
-BSc (Hons) in Information Technology, specialising in Data Science — SLIIT (GPA 3.675)
+BSc (Hons) in Information Technology, specialising in Data Science — SLIIT (GPA 3.36)
 
 Aspiring Data Analyst. Interested in turning messy, real-world data into decisions people can trust.
 
